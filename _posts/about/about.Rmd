@@ -1,11 +1,9 @@
 ---
-title: "About Me"
+title: About me
 author:
-  - name: "___" 
+  - name: "Cyril Dupuis" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
-
-- first name/surname, teacher’s name, class name and academic year
+- I'm Cyril Dupuis. I'm a secondary student in biology at UMONS. I'm passionated by biology since 5 years now.

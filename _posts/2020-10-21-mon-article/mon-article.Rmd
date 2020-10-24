@@ -1,0 +1,71 @@
+---
+title: "Article 1: Snow leopards overcount"
+description: |
+ "Scientifics and cameras may overcounted snow leopards in Mongolia"
+author:
+  - name: Cyril Dupuis
+    url: {https://cyrildupuis.github.io/Cyril_BLog/}
+date: 10-22-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Article 1: Camera Traps May Overcount Snow Leopards and Other Vulnerable Species.
+
+<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Snow_Leopard_Looking_Back_%2824038917200%29.jpg/1280px-Snow_Leopard_Looking_Back_%2824038917200%29.jpg>
+
+## I - Source:
+Source:<https://www.scientificamerican.com/article/camera-traps-may-overcount-snow-leopards-and-other-vulnerable-species/>
+
+(12/10/20), (23/10/20)
+
+Words: 930
+
+## II - Vocabulary
+
+| Word from the text 	| synonym/definition in English                                                                                      	| French Translation                                              	|
+|--------------------	|--------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------	|
+| distinguish        	| to mark off as different, to recognize as distinct or different                                                    	| distinguer                                                      	|
+| self-portrait      	| a portrait of oneself done by oneself                                                                              	| autoportrait                                                    	|
+| pattern            	| a decorative design, as for wallpaper, made up of elements in a regular arrangement                                	| motif, modèle, disposition                                      	|
+| pressure pad       	| no official definition                                                                                             	| capteur de pression, pansement compressif                       	|
+| monitor            	| a device for observing or recording the operation of a machine or system                                           	| écran, moniteur, interphone, surveiller, dispositif de contrôle 	|
+| provided           	| on the condition or understanding, as long as, if                                                                  	| fourni, à condition que                                         	|
+| elusive            	| eluding one's understanding                                                                                        	| insaisissable, furtif, compliqué, évasif                        	|
+| prompt             	| performed at once or without delay                                                                                 	| rapide, souffler, réplique                                      	|
+| threats            	| a sign or warning of trouble or danger                                                                             	| menace                                                          	|
+| poaching           	| the illegal practice of trespassing on another's property to hunt or steal game without the landowner's permission 	| braconnage                                                      	|
+| wrinkle            	| a small crease in the skin, as from aging                                                                          	| ride, pli                                                       	|
+| inflating          	| to (cause to) be exended with air or gas, to increase too much such as the level of prices                         	| gonfler                                                         	|
+| fewer              	| of a smaller number                                                                                                	| moins de, moins                                                 	|
+| spot               	| a mark made by something unwanted, an akward or difficult position, a small quantity                               	| tache, endroit, bouton, points, pois, repérer                   	|
+| stripes            	| a narrow band differing in color, material, or texture from the background parts                                   	| rayures, galons, genres                                         	|
+| inferred           	| to conclude from evidence                                                                                          	| déduit                                                          	|
+| assumption         	| something taken or granted                                                                                         	| hypothèse                                                       	|
+| guesswork          	| work or procedure based on or consisting of the making of guesses or conjectures                                   	| conjecture                                                      	|
+| pervasive          	| pervading or tending to pervade                                                                                    	| invasif, envahissant, pénétrant                                 	|
+| nonprofit          	| not established for the purpose of making a profit                                                                 	| à but non lucratif                                              	|
+| overcome           	| to defeat or gain an advantage over in a struggle or conflict                                                      	| vaincre, défaire, battre, surmonter                             	|
+| software           	| programs for directing a computer or processing electronic data                                                    	| logiciel                                                        	|
+| uncertain          	| not known precisely, not confident or assured                                                                      	| pas sûr, ne pas trop savoir, incertain                          	|
+| to err             	| to be mistaken or incorrect                                                                                        	| se tromper, pécher                                              	|
+| prevailing         	| most frequent or powerful, generally current                                                                       	| dominant, prédominant                                           	|
+| acknowledgement    	| a message testifying to the receipt of something                                                                   	| reconnaissance, remerciements                                   	|
+| crystal            	| a clear, transparent mineral or glass resembling ice, like quartz                                                  	| cristal,                                                        	|
+| abundance          	| a great amount or quantity of                                                                                      	| abondance                                                       	|
+| biased             	| having or showing bias                                                                                             	| partial, biaisé                                                 	|
+
+## III - Analysis table about the study:
+
+| Researchers ?                        | Örjan Johanssen (biologist at the Swedish)                                                                                                                                                                                                                        |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When ? (If mentioned) | Scientific Reports (April 2020)                                                                                                                                                                                                                                   |
+| General topic                        | Camera an Scintifics may overcount snow leopards because of the hardness to distinguish them                                                                                                                                                                      |
+| Procedure/ what was examinated       | - Biologists distinguish a snow leopard by looking at his unique pattern's coat + Differents camera angles and light levels can lead to mistakes + Experts and non-experts misidentified photos of snow leopards                                                  |
+| Conclusions/discovery                | - Snow leopards population may be overestimated by 35%. - Other big cat species may be in the same case. - They are working on an AI able to distinguish them properly but it has the same problems as the Human eye. - Using more cameras may solve the problems |
+| Remaining questions                  | - Are snow leopards still endangered ? - Are there other species in the same case as snow leopards ? - Will we ever been able to distinguish snow leopards properly ?                                                                                             |
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

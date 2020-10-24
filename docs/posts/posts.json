@@ -1,5 +1,37 @@
 [
   {
+    "path": "posts/2020-10-21-mon-article/",
+    "title": "Article 1: Snow leopards overcount",
+    "description": "\"Scientifics and cameras may overcounted snow leopards in Mongolia\"",
+    "author": [
+      {
+        "name": "Cyril Dupuis",
+        "url": {
+          "https://cyrildupuis.github.io/Cyril_BLog/": {}
+        }
+      }
+    ],
+    "date": "2020-10-22",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-24T13:46:19+02:00"
+  },
+  {
+    "path": "posts/about/",
+    "title": "About me",
+    "description": {},
+    "author": [
+      {
+        "name": "Cyril Dupuis",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-21",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-21T14:07:17+02:00"
+  },
+  {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
@@ -52,21 +84,6 @@
       "Paleontology",
       "Rodent"
     ],
-    "preview": {},
-    "last_modified": "2020-10-08T09:34:40+02:00"
-  },
-  {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [],
     "preview": {},
     "last_modified": "2020-10-08T09:34:40+02:00"
   },
