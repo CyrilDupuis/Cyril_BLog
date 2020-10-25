@@ -4,7 +4,7 @@ description: |
  "Scientifics and cameras may overcounted snow leopards in Mongolia"
 author:
   - name: Cyril Dupuis
-    url: {https://cyrildupuis.github.io/Cyril_BLog/}
+    url: {}
 date: 10-22-2020
 output:
   distill::distill_article:
