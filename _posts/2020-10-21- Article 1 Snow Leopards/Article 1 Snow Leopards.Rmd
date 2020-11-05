@@ -1,7 +1,7 @@
 ---
 title: "Article 1: Snow leopards overcount"
 description: |
- "Scientifics and cameras may overcounted snow leopards in Mongolia"
+ "Scientists and cameras may overcounted snow leopards in Mongolia"
 author:
   - name: Cyril Dupuis
     url: {}
@@ -18,7 +18,7 @@ output:
 ## I - Source:
 Source:<https://www.scientificamerican.com/article/camera-traps-may-overcount-snow-leopards-and-other-vulnerable-species/>
 
-(12/10/20), (23/10/20)
+Date: the First of May 2020
 
 Words: 930
 
@@ -61,10 +61,10 @@ Words: 930
 | Researchers ?                        | Örjan Johanssen (biologist at the Swedish)                                                                                                                                                                                                                        |
 |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Published in ? When ? (If mentioned) | Scientific Reports (April 2020)                                                                                                                                                                                                                                   |
-| General topic                        | Camera an Scintifics may overcount snow leopards because of the hardness to distinguish them                                                                                                                                                                      |
-| Procedure/ what was examinated       | - Biologists distinguish a snow leopard by looking at his unique pattern's coat + Differents camera angles and light levels can lead to mistakes + Experts and non-experts misidentified photos of snow leopards                                                  |
+| General topic                        | Cameras an Scientists may overcount snow leopards because they are difficult to identify                                                                                                                                                                      |
+| Procedure/ what was examinated       | - Biologists distinguish a snow leopard by looking at his unique pattern's coat + Different camera angles and light levels can lead to mistakes + Experts and non-experts misidentified photos of snow leopards                                                  |
 | Conclusions/discovery                | - Snow leopards population may be overestimated by 35%. - Other big cat species may be in the same case. - They are working on an AI able to distinguish them properly but it has the same problems as the Human eye. - Using more cameras may solve the problems |
-| Remaining questions                  | - Are snow leopards still endangered ? - Are there other species in the same case as snow leopards ? - Will we ever been able to distinguish snow leopards properly ?                                                                                             |
+| Remaining questions                  | - Are snow leopards still endangered ? - Are there other species in the same case as snow leopards ? - Will we ever be able to distinguish snow leopards properly ?                                                                                             |
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

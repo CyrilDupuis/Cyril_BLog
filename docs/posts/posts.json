@@ -1,8 +1,23 @@
 [
   {
-    "path": "posts/2020-10-21-mon-article/",
+    "path": "posts/2020-10-25-article-2/",
+    "title": "Article 2",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Cyril Dupuis",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-25T19:19:31+01:00"
+  },
+  {
+    "path": "posts/2020-10-21- Article 1 Snow Leopards/",
     "title": "Article 1: Snow leopards overcount",
-    "description": "\"Scientifics and cameras may overcounted snow leopards in Mongolia\"",
+    "description": "\"Scientists and cameras may overcounted snow leopards in Mongolia\"",
     "author": [
       {
         "name": "Cyril Dupuis",
@@ -12,7 +27,7 @@
     "date": "2020-10-22",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-25T17:06:21+01:00"
+    "last_modified": "2020-11-05T15:03:35+01:00"
   },
   {
     "path": "posts/about/",
