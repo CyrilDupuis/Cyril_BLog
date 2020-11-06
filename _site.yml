@@ -16,7 +16,6 @@ collections:
     posts:
       disqus: cyril-blog-1
       share: [twitter, linkedin, facebook]
-      #disqus: 
-output:
+output: 
   distill::distill_article:
     css: style.css
