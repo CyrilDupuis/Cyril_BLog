@@ -1,0 +1,38 @@
+---
+title: "Article 2: Ships Hitting Animals  "
+description: |
+ "Small animals hit by boats are more numerous than we think and this creates big troubles."
+  
+author:
+  - name: Cyril Dupuis
+    url: {}
+date: 10-25-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Article 2: Ships Hit Smaller Sea Animals More Often than Researchers Thought
+
+<img src = >
+
+## I - Source:
+
+Source:<https://www.scientificamerican.com/article/ships-hit-smaller-sea-animals-more-often-than-researchers-thought/?fbclid=IwAR2BGOH4X-_io_zHxwoIdEvxbFS_mkFxiaC_V_x736TmbN94Msx7kzP5uT0>
+
+Date :The Ninth of July 2020
+
+Words : 885
+
+## II - Vocabulary:
+
+
+
+## III - Analysis table about the study:
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

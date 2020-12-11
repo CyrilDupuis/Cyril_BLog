@@ -1,7 +1,7 @@
 ---
 title: "Article 1: Snow leopards overcount"
 description: |
- "Scientists and cameras may overcounted snow leopards in Mongolia"
+ "Scientists and cameras may overcounted snow leopards in Mongolia."
 author:
   - name: Cyril Dupuis
     url: {}

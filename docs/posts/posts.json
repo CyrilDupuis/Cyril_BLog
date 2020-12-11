@@ -1,8 +1,23 @@
 [
   {
-    "path": "posts/2020-10-25-article-2/",
-    "title": "Article 2",
-    "description": "A short description of the post.",
+    "path": "posts/2020-12-11- Article 3 Smooth Handfish Extinction/",
+    "title": "Article 3: The Smooth Handfish extinction",
+    "description": "\"The smooth-handed fish is the first fish of modern times to be officially extinct and other species may follow.\"",
+    "author": [
+      {
+        "name": "Cyril Dupuis",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-11T19:34:05+01:00"
+  },
+  {
+    "path": "posts/2020-10-25- Article 2 Ships Hitting Animals/",
+    "title": "Article 2: Ships Hitting Animals  ",
+    "description": "\"Small animals hit by boats are more numerous than we think and this creates big troubles.\"",
     "author": [
       {
         "name": "Cyril Dupuis",
@@ -12,7 +27,7 @@
     "date": "2020-10-25",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-25T19:19:31+01:00"
+    "last_modified": "2020-12-11T21:09:32+01:00"
   },
   {
     "path": "posts/2020-10-21- Article 1 Snow Leopards/",

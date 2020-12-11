@@ -1,0 +1,39 @@
+---
+title: "Article 3: The Smooth Handfish extinction"
+description: |
+  "The smooth-handed fish is the first fish of modern times to be officially extinct and other species may follow."
+author: 
+  - name: Cyril Dupuis
+    url: {}
+date: 12-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Article 3: Smooth Handfish Extinction Marks a Sad Milestone
+
+<img src = https://upload.wikimedia.org/wikipedia/commons/8/88/Brachionichthys_hirsutus_RLS.jpg>
+
+## I - Source:
+
+Source:<https://www.scientificamerican.com/article/smooth-handfish-extinction-marks-a-sad-milestone/>
+
+Date :The First of July 2020
+
+Words :447
+
+## II - Vocabulary:
+
+
+
+## III - Analysis table about the study:
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
