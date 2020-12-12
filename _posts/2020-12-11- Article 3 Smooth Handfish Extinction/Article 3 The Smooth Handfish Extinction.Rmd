@@ -11,7 +11,7 @@ output:
     self_contained: false
 ---
 
-# Article 3: Smooth Handfish Extinction Marks a Sad Milestone
+# Article 3: Smooth Handfish Extinction Marks a Sad Milestone.
 
 <img src = https://upload.wikimedia.org/wikipedia/commons/8/88/Brachionichthys_hirsutus_RLS.jpg>
 
@@ -25,11 +25,43 @@ Words :447
 
 ## II - Vocabulary:
 
-
+| Word from the text 	| synonym/definition in english                                                                                               	| French translation                        	|
+|--------------------	|-----------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------	|
+| harm               	| injury or damage                                                                                                            	| faire du mal, blesser, abîmer, endommager 	|
+| dangerously        	| adv of dangerous                                                                                                            	| dangereusement                            	|
+| acidic             	| containing acid-bearing pollutants                                                                                          	| acide                                     	|
+| overharvesting     	| to gather too much                                                                                                          	| surpêche                                  	|
+| disrupted          	| - to cause disorder or turmoil in - to interrupt the normal operation of...                                                 	| perturbé, bouleversé                      	|
+| chains             	| a series of things connected one after the other                                                                            	| chaîne, attacher, enchaîner               	|
+| endangered         	| threatened with danger or extinction                                                                                        	| en voie d'extinction, en danger, menacé   	|
+| sea cow            	| any sirenian as the manatee or dugong                                                                                       	| vache de mer (manatee = lamantin)         	|
+| smooth handfish    	| /                                                                                                                           	| poisson à main lisse                      	|
+| modern-day         	| day relating to present or recent time                                                                                      	| temps modernes                            	|
+| bottom-dwelling    	| /                                                                                                                           	| de fond                                   	|
+| anglerfish         	| /                                                                                                                           	| baudroie                                  	|
+| larval (phase)     	| of, pertaining to, or in a form of a larva                                                                                  	| larvaire                                  	|
+| traits             	| - a quality, esp. of one's personal nature, that sets one apart from others - an inherited feature or characteristic        	| trait                                     	|
+| seabed             	| the bottom of the sea; the ground at the bottom of the sea                                                                  	| fond de la mer                            	|
+| flap               	| to (cause to) swing back and forth loosely, to cause to move up and down such as wings or arms                              	| rabbat, battre, claquer                   	|
+| threats            	| a warning that one (or someone) will harm another, if something is done or not done, a sign of warning of trouble or danger 	| menace                                    	|
+| spotted handfish   	| /                                                                                                                           	| poisson à main tacheté                    	|
+| sampling           	| the act or process of selecting a sample for testing, analyzing, the sample so selected                                     	| échantillonnage                           	|
+| guidelines         	| any guide or indication of a future course of action, or of some course or set of steps to follow                           	| recommendations, directives               	|
+| trawl              	| a fishing net dragged along the sea bottom to catch fish.                                                                   	| pêche au chalut                           	|
+| niche              	| the position or function of an organism in a community of plants and animals.                                               	| niche                                     	|
+| extremophile       	| a microbe that lives in an environment once thought to be uninhabitable, for example in boiling or frozen water             	| extremophile                              	|
+| nonprofit          	| not established for the purpose of making a profit                                                                          	| non-lucratif                              	|
+| wake-up call       	| an event that alerts people to a danger or difficulty                                                                       	| signal d'alarme                           	|
 
 ## III - Analysis table about the study:
 
-
+| Researchers ?                         	| Graham Edgar (marine ecologist at the University of Tasmania)                                                                                                                                                                                                                                                                                                                                                                  	|
+|---------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Published in ? When ? (if mentionned) 	| Published as “Out of Hand” in Scientific American on the fourtennth of July 2020                                                                                                                                                                                                                                                                                                                                               	|
+| Genreal Topic ?                       	| Human impact on the extinction of SmoothHandfish and endangered species in Australian waters.                                                                                                                                                                                                                                                                                                                                  	|
+| Procedure/What was examinated ?       	| Human activities are destroying marine habitats, polluting the water, acidifying the waters + Overexploitation is disrupting food chains and pushing some species into danger of extinction or even total extinction + Smooth hand fish have no larval stage and are unable to move to new locations making them very vulnerable to environmental changes + Frequent scientific sampling in their known range without success. 	|
+| Conclusions/Discovery ?               	| Humans have a severe impact on biodiversity + The smooth hand fish (Sympterichthys unipennis) is the first fish of modern times to have been placed in the category of extinct species and several other fish species are now endangered or critically endangered.                                                                                                                                                             	|
+| Remaining questions ?                 	| - Is the smooth-handed fish the only fish extinct to date? - How could we let this species disappear without noticing? - Are conservation plans being put in place?                                                                                                                                                                                                                                                            	|
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
