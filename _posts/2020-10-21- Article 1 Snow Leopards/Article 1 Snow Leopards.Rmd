@@ -1,7 +1,7 @@
 ---
 title: "Article 1: Snow leopards overcount"
 description: |
- "Scientists and cameras may overcounted snow leopards in Mongolia."
+ Scientists and cameras may overcounted snow leopards in Mongolia.
 author:
   - name: Cyril Dupuis
     url: {}
@@ -58,7 +58,7 @@ Words: 930
 
 ## III - Analysis table about the study:
 
-| Researchers ?                        | Örjan Johanssen (biologist at the Swedish)                                                                                                                                                                                                                        |
+| Researchers                         | Örjan Johanssen (biologist at the Swedish)                                                                                                                                                                                                                        |
 |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Published in ? When ? (If mentioned) | - Scientific Reports (April 2020)                                                                                                                                                                                                                                   |
 | General Topic                        | - Cameras an Scientists may overcount snow leopards because they are difficult to identify                                                                                                                                                                      |

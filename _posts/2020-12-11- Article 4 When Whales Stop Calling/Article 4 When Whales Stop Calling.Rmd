@@ -1,0 +1,75 @@
+---
+title: "Article 4: When Whales Stop Calling"
+description: |
+  Study of the impact of compressed air cannons on whales.
+author:
+  - name: Cyril Dupuis
+    url: {}
+date: 12-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Article 4: When Whales Stop Calling.
+
+<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Eubalaena_glacialis_with_calf.jpg/800px-Eubalaena_glacialis_with_calf.jpg>
+
+## I - Source:
+
+Source:<https://www.scientificamerican.com/article/when-whales-stop-calling/>
+
+Date : The Fourth of October 2020
+
+Words : 783
+
+## II - Vocabulary:
+
+| Word from the text 	| Synonym/definition in English                                                                                                 	| French Translation                      	|
+|--------------------	|-------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------	|
+| survey             	| to consider or in a general way                                                                                               	| sondage, enquête                        	|
+| whether            	| use to introduce the first of two or more choices or possibilities, the second one is preceded by the word "or"               	| que, si                                 	|
+| slightly           	| in small measure or degree                                                                                                    	| légèrement, quelque peu                 	|
+| raucous            	| harsh, strident, grating                                                                                                      	| tapageur                                	|
+| bowhead whales     	| /                                                                                                                             	| baleines boréales                       	|
+| airgun blast       	| /                                                                                                                             	| explosion d'un fusil à air comprimé     	|
+| e.g.               	| for example, for the sake of example, such as                                                                                 	| par exemple                             	|
+| whaling            	| the work or industry of capturing whales                                                                                      	| pêche à la baleine                      	|
+| cease              	| to (cause to) stop or discontinue                                                                                             	| cesser, s'arrêter                       	|
+| impulse            	| the influence of a particular feeling, etc., to do something, sudden desire leading to action                                 	| impulsion, élan                         	|
+| array              	| to place, position, or set out in proper or desired order                                                                     	| étalage, collection, série              	|
+| albeit             	| although, even if                                                                                                             	| bien que                                	|
+| deafen             	| to make deaf                                                                                                                  	| rendre sourd, assourdir                 	|
+| disturbingly       	| causing disturbance                                                                                                           	| de façon trouble, de façon inquiétante  	|
+| fire               	| to discharge (a gun)                                                                                                          	| faire feu, tirer                        	|
+| i.e.               	| in other words                                                                                                                	| c'est-à-dire                            	|
+| low-pitch          	| /                                                                                                                             	| basse tonalité                          	|
+| chirps             	| the short, sharp sound made by small birds                                                                                    	| gazouillements                          	|
+| behaviral          	| /                                                                                                                             	| comportemental                          	|
+| overlap            	| to stretch over and cover a part of (something else)                                                                          	| se chevaucher                           	|
+| bandwidth          	| the smallest range of frequencies constituting a band, within which a particular signal can be transmitted without distortion 	| la bande passante, débit                	|
+| baleen whales      	| /                                                                                                                             	| baleines à fanons                       	|
+| offshore           	| off or away from the shore                                                                                                    	| en mer, au large                        	|
+| drilling           	| the act of a person or thing that drills                                                                                      	| percement, forage                       	|
+| coastal            	| of or relating to the coast                                                                                                   	| côtier, littoral, maritime              	|
+| disturbance        	| an act of disturbing or the state of being disturbed                                                                          	| trouble, tapage, bruit                  	|
+| anthropogenic      	| caused or produced by humans                                                                                                  	| anthropique                             	|
+| exposure           	| the act of exposing or the state of being exposed, of revealing or unmasking something previously hidden                      	| exposition, divulgation, révélation     	|
+| prior              	| coming before another, greater in importance                                                                                  	| précédent, antérieur, avant             	|
+
+## III - Analysis table about the study:
+
+| Researchers                          	| Taylor L. Machette (Senior at Princeton University majoring in Ecology and Evolutionary Biology and aspiring marine mammologist)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	|
+|--------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Published in ? When ? (If mentioned) 	| /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	|
+| General Topic                        	| - The impact on whales of compressed air cannons for seismic surveys                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| Procedure/What was examinated        	| - Air cannons on ships are like fire truck sirens for whales + Compressed air cannons send bursts every 10 to 20 seconds for several days or even months but not continuously + These bursts are 240 DB (1 million times bigger than whale calls and can make whales deaf if they are less than one kilometre away) + These sound waves are low frequency so they can spread to the other side of the world with very little attenuation, which has a series of behavioural impacts on whales dozens of kilometres away + These waves are superimposed on the bandwidth of baleen whales, which masks their calls, they therefore increase their appeal rate in vain 	|
+| Conclusions/Discovery                	| - The blue whales and bowhead whales of the Beaufort Sea in Alaska stopped calling each other because they could not hear each other + The recovery of the North Atlantic right whale population is compromised by mortality due to collisions with ships and fishing gear but also by compressed air guns making their vital interactions complicated or even impossible + These waves are an anthropogenic stress factor, can make them deaf and disrupt the behavioural patterns of marine mammals hundreds of thousands of times each year                                                                                                                     	|
+| Remaining questions                  	| - Are oil and gas so important that they are destroying these whale populations ? - What is the current situation of these whales, are they still in danger ? - Is there no way to develop a new cannon that is harmless to marine beings ?                                                                                                                                                                                                                                                                                                                                                                                                                        	|
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
