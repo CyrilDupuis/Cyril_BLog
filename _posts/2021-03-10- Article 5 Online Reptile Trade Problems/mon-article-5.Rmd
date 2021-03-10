@@ -1,0 +1,85 @@
+---
+title: "Article 5: Online Reptile Trade Problems"
+description: |
+  Reptile trade is under-regulated and causes serious problems for biodiversity.
+author:
+  - name: Cyril Dupuis
+    url: {}
+date: 03-10-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Article 5: Reptile Trade Is Under-Regulated
+
+<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Goniurosaurus_yamashinae_femelle.jpg/1920px-Goniurosaurus_yamashinae_femelle.jpg>
+
+## I - Source:
+
+Source :<https://www.scientificamerican.com/article/online-reptile-trade-is-a-free-for-all-that-threatens-thousands-of-species/>
+
+Date : The Twenty-Ninth of September 2020
+
+Words : 1077
+
+## II - Vocabulary:
+
+The Convention on International Trade in Endangered Species of Wild Fauna and Flora, known by its acronym CITES or as the Washington Convention, is an international agreement between states. It aims to ensure that international trade in wild animal and plant specimens does not threaten the survival of the species to which they belong.
+
+| Word from the text 	| Synonym/definition in English                                                                                           	| French Translation          	|
+|--------------------	|-------------------------------------------------------------------------------------------------------------------------	|-----------------------------	|
+| Free-for-all       	| a fight, argument, or contest that is open to everyone and usually without rules.                                       	| mêlée générale              	|
+| geckos             	| animal                                                                                                                  	| gecko                       	|
+| exemplify          	| to show or illustrate by example, To furnish or serve as an example of                                                  	| illustrer, incarner         	|
+| bloodred           	| of the deep red color of blood                                                                                          	| rouge sang                  	|
+| bright             	| giving off or reflecting light                                                                                          	| lumineux, brillant          	|
+| popsicle           	| brand of flavored ice on a stick.                                                                                       	| glace à l'eau               	|
+| fiery              	| intensely ardent or passionate, like or suggestive of fire                                                              	| enflammé, en feu            	|
+| limestone          	| a rock made up mostly of calcium carbonate, some of which is formed from the skeletons of tiny sea organisms and coral. 	| calcaire, roche calcaire    	|
+| imperiled          	| to put in peril or danger                                                                                               	| mettre en péril             	|
+| to ensure          	| to guarantee, to make sure                                                                                              	| assurer, garantir           	|
+| sustainable        	| capable of being maintained at a steady level without exhausting natural resources or causing severe ecological damage  	| durable                     	|
+| scrape             	| to collect with difficulty                                                                                              	| érafler                     	|
+| tallied            	| record, count                                                                                                           	| compte, registre            	|
+| whet               	| to sharpen by grinding or friction, stimulate                                                                           	| aiguiser                    	|
+| quantify           	| to give quantity to                                                                                                     	| quantifier, évaluer         	|
+| treaty             	| a formal agreement between countries in regard to peace, friendship                                                     	| traité                      	|
+| warrant            	| a document that gives authority to an officer to make an arrest or to search or seize property.                         	| mandat, justifier, mériter  	|
+| precedence         	| the right to be dealt with or placed before others because of order, rank, or importance                                	| priorité                    	|
+| frankly            	| in truth, to be honest                                                                                                  	| franchement, avec franchise 	|
+| statement          	| a printed listing that shows financial amounts taken in or paid out of a bank account, or of finances generally         	| déclaration, affirmation    	|
+| compliance         	| a tendency to comply                                                                                                    	| conformité, complaisance    	|
+| headlines          	| a statement printed in large letters at the beginning of a newspaper article, summarizing the subject of the article.   	| gros titres                 	|
+
+## III - Analysis table about the study:
+
+| Researchers                          	| Alice Hughes (Ecologist at the Chinese Academy of Sciences)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             	|
+|--------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Published in ? When ? (If mentioned) 	| /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	|
+| General Topic                        	| The impact and problems of the reptile trade on biodiversity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	|
+| Procedure/What was examinated        	| - There are approximately 4,000 species of reptiles regularly traded online, half of which are caught in the wild and are not subject to any international regulation. Today, "anything can be traded until you say otherwise". + Researchers have compiled CITES data and data from 152 other sites. They identified 36% (4000 species) of known reptile species, most of which are legal, but 79% of reptile species sold online are not regulated by CITES and therefore leave no trace of any trade. + Unfortunately, the sale status of a species is not linked to its conservation status and more than a third of the reptiles on the list, 500 of which are endangered, have not been assessed for their conservation status. + The nomination process to enter CITES takes more than 10 years. The threat of a species does not justify its inclusion and the cost of CITES regulations is high because the entry procedure takes more than 10 years so a limited number of species can enter. 	|
+| Conclusions/Discovery                	| - The lack of regulation means that scientists have no way of knowing whether the trade is having an impact on the survival of these species. + The research is not broad enough and does not give the number of individuals but the number of species, which makes it difficult to visualise the scale of the situation. + CITES favours commercial interests over scientific ones but acknowledges that it has gaps in its data on reptiles. + Each country should introduce legislation banning the import of certain wild-caught animals as some countries have done in the past. + The pet industry should turn to captive breeding operations to preserve wildlife.                                                                                                                                                                                                                                                                                                                               	|
+| Remaining questions                  	| - Why is it so difficult to implement a breeding or conservation plan for endangered species when they are sometimes traded? - Are countries really that passive about these trades or do they have ideas in their minds but keep it secrets for now ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+

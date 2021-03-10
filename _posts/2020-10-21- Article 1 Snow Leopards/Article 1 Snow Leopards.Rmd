@@ -16,7 +16,7 @@ output:
 <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Snow_Leopard_Looking_Back_%2824038917200%29.jpg/1280px-Snow_Leopard_Looking_Back_%2824038917200%29.jpg>
 
 ## I - Source:
-Source:<https://www.scientificamerican.com/article/camera-traps-may-overcount-snow-leopards-and-other-vulnerable-species/>
+Source :<https://www.scientificamerican.com/article/camera-traps-may-overcount-snow-leopards-and-other-vulnerable-species/>
 
 Date: the First of May 2020
 
