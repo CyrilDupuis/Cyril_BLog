@@ -1,7 +1,7 @@
 ---
-title: "mon article 6"
+title: "Article 6: Current Status of Corals"
 description: |
-  A short description of the post.
+  Study about the current status of corals.
 author:
   - name: Cyril Dupuis
     url: {}
@@ -11,11 +11,43 @@ output:
     self_contained: false
 ---
 
+# Article 6: Current Status of Corals
+
+<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Coral_Outcrop_Flynn_Reef.jpg/330px-Coral_Outcrop_Flynn_Reef.jpg>
+
+## I - Source:
+
+Source :<https://www.sciencemag.org/news/2021/03/half-trillion-corals-live-just-one-ocean-does-mean-they-are-safe>
+
+Date :  The Fourth of March 2021
+
+Words : 983
+
+## II - Vocabulary:
+
+
+
+## III - Analysis table about the study
+
+| Researchers                          	| Nancy Knowlton (Retired coral reef biologist at the Smithsonian Institution's National Museum of Natural History), John Bruno (Marine ecologist at the University of North Carolina, Chapel Hill), Andreas Dietzel (Coral reef at James Cook University, Townsville)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+|--------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Published in ? When ? (If mentioned) 	| Nature Ecology & Evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	|
+| General Topic                        	| - Study about the current status of corals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	|
+| Procedure/ What was examinated       	| - In recent decades, corals have suffered much damage from global warming, ocean acidification, pollution, overfishing, oil spills and other human activities + A study has been carried out based on actual counts, satellite data, maps and informed estimates. The new coral census covers a 10,000-kilometre-long strip of the Pacific Ocean between Indonesia and French Polynesia and counts 318 species at 60 sites. The study shows that about 200 coral species have more than 100 million colonies, that the number of colonies has exceeded one billion for about 60 species, that eight species are more numerous than the world's human population (7.8 billion), and that even the rarest species exceed one million.                                                                          	|
+| Conclusions/ Discovery               	| - Many species are not in immediate danger of extinction and the near future of corals is not in jeopardy, but the researchers fear this may cause policy makers to relax their efforts to protect reefs + The IUCN classified 80 of the 318 species included in the study as vulnerable, endangered or critically endangered, yet 12 of these 80 species have an estimated population of more than one billion. Some corals with a stable status are classified as Vulnerable and some rarer ones are classified as Data Deficient or Least Concern because the Red List status "is not determined by the total number of individuals" and a revision of the Red List is therefore urgent. Despite this high estimate, coral reefs are shrinking and the extent of coral reefs is half what it was in 1870. 	|
+| Remaining questions                  	| - Which ocean is the most affected by climate change ? - How difficult is it to create coral conservation programme ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	|
+
+
+
+
+
+
+
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
