@@ -25,7 +25,37 @@ Words : 983
 
 ## II - Vocabulary:
 
-
+| Word from the text 	| Synonym/definition in English                                                                 	| French Translation              	|
+|--------------------	|-----------------------------------------------------------------------------------------------	|---------------------------------	|
+| survey             	| a general view, description, course of study                                                  	| enquête                         	|
+| head counts        	| an inventory of people in a group taken by counting individuals.                              	| nombres de personnes, effectifs 	|
+| census             	| an official count of the population of a country, state                                       	| recensement                     	|
+| policymakers       	| a person responsible for making policy, esp. in government.                                   	| décideurs politiques            	|
+| reefs              	| a ridge or bank of rocks or sand, often of coral debris, at or near the surface of the water. 	| récif                           	|
+| take-home          	| /                                                                                             	| à emporter                      	|
+| ease up            	| to (cause to) become less difficult or severe:                                                	| s'assouplir                     	|
+| tremendous         	| extraordinary, excellent, very good                                                           	| formidable                      	|
+| bleaching          	| to make whiter or lighter in color, as by a chemical agent                                    	| blanchiment                     	|
+| algal              	| adjective referring to algue                                                                  	| algue                           	|
+| harm               	| to do or cause harm to                                                                        	| nuire, porter préjudice         	|
+| hard frames        	| /                                                                                             	| cadres rigides                  	|
+| spills             	| to (cause or allow to) run or fall from a container, esp. accidentally or wastefully          	| déversement                     	|
+| dwindled           	| to become smaller                                                                             	| diminué                         	|
+| resilient          	| flexible                                                                                      	| résiliente                      	|
+| heatwaves          	| air mass of high temperature covering an extended area and moving relatively slowly           	| canicules                       	|
+| thrive             	| to prosper, be successful                                                                     	| s'épanouir                      	|
+| odds               	| differing in nature from what is usual or expected                                            	| étrange, bizarre, particulier   	|
+| upshot             	| the final outcome, conclusion                                                                 	| conséquence                     	|
+| extent             	| the space or degree to which a thing extends, length, area, volume, or scope                  	| étendue                         	|
+| though             	| although, in spite of the fact that                                                           	| bien que                        	|
+| strech             	| to (cause to) extend or spread from one place to another                                      	| étirer                          	|
+| topped             	| of or relating to the top                                                                     	| surmonté de                     	|
+| on par             	| very close to                                                                                 	| à égalité                       	|
+| data shed          	| /                                                                                             	| base de données                 	|
+| either             	| one or the other of two                                                                       	| soit                            	|
+| boulders           	| a large rounded or worn rock                                                                  	| blocs rocheux                   	|
+| flats              	| lying horizontally and at full length                                                         	| de tout son long(sur le sol)    	|
+| underway           	| proceeding, in progress                                                                       	| en cours                        	|
 
 ## III - Analysis table about the study
 

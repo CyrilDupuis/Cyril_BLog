@@ -15,7 +15,7 @@
     "last_modified": "2021-03-10T23:43:20+01:00"
   },
   {
-    "path": "posts/2021-03-10-mon-article-6/",
+    "path": "posts/2021-03-10- Article 6 Current Corals Status/",
     "title": "Article 6: Current Status of Corals",
     "description": "Study about the current status of corals.",
     "author": [
@@ -27,7 +27,22 @@
     "date": "2021-03-10",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-03-11T22:40:01+01:00"
+    "last_modified": "2021-03-15T20:06:17+01:00"
+  },
+  {
+    "path": "posts/2021-03-10- Article 7  Climate Change Problems in German Bogs/",
+    "title": "Article 7: Climate Change Problems in German Bogs",
+    "description": "Climate change creates serious problems in German Bogs.",
+    "author": [
+      {
+        "name": "Cyril Dupuis",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-10",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-15T20:07:03+01:00"
   },
   {
     "path": "posts/2020-12-11- Article 3 Smooth Handfish Extinction/",

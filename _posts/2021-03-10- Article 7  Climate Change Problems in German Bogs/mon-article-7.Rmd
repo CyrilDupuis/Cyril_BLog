@@ -1,0 +1,62 @@
+---
+title: "Article 7: Climate Change Problems in German Bogs"
+description: |
+  Climate change creates serious problems in German Bogs.
+author:
+  - name: Cyril Dupuis
+    url: {}
+date: 03-10-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Article 7: Climate Change Impact in German Bogs
+
+<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bargerveen.jpg/390px-Bargerveen.jpg>
+
+## I - Source:
+
+Source :<https://www.sciencedaily.com/releases/2020/10/201028110620.htm>
+
+Date :  The Twenty-eigth of October 2020
+
+Words : 552
+
+## II - Vocabulary:
+
+| Word from the text  	| Synonym/definition in English                                                  	| French Translation              	|
+|---------------------	|--------------------------------------------------------------------------------	|---------------------------------	|
+| bog                 	| n area of wet, spongy ground.                                                  	| tourbière                       	|
+| integrative         	| to bring together, combine, or incorporate into a whole or into a larger unit: 	| intégratif                      	|
+| ombrotrophic        	| /                                                                              	| ombrothrophique                 	|
+| mires               	| a difficult or unpleasant situation that one cannot escape from                	| tourbières                      	|
+| swathe              	| to wrap, bind, or swaddle with bands of some material                          	| bandeau                         	|
+| seismographs        	| an instrument for measuring and recording the vibrations of earthquakes        	| sismographe                     	|
+| wetlands            	| land with wet and spongy soil                                                  	| zone humide                     	|
+| trends              	| the way or direction things tend to go                                         	| tendances                       	|
+| surveyed            	| to view in detail, in order to know the condition or value of something        	| étudiés, avec soin              	|
+| overlooked          	| to fail to notice or think about, not see the importance of                    	| négligé                         	|
+| whether             	| (used to introduce the first of two or more choices or possibilities;          	| si                              	|
+| drier               	| comparative of dry.                                                            	| plus sec                        	|
+| presumably          	| probably                                                                       	| vraisemblablement               	|
+| low mountain ranges 	| /                                                                              	| les basses chaînes de montagnes 	|
+
+## III - Analysis table about the study
+
+| Researchers                          	| Helge Bruelheide (A geobotanist at MLU and co-director of iDiv), Thomas Sperle (A biologist and wetlands expert)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              	|
+|--------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Published in ? When ? (If mentioned) 	| Diversity and Distributions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	|
+| General Topic                        	| Climate change creates serious problems in German Bogs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	|
+| Procedure/ What was examinated       	| - "The Black Forest is experiencing significant drought and heat: rising temperatures and longer dry periods + Peatlands are extremely sensitive to climate change and have a very high proportion of endangered plant and animal species + A study was carried out on almost all meticulously scanned areas over a period of four years and used data from the 1970s on complete peatlands + The data allowed 88 plant species to be analysed.                                                                                                                                                                                                                                                                                                                                                               	|
+| Conclusions/ Discovery               	| - Bogs used to be found in northwestern Germany, today only a few healthy ombrotrophic bogs, raised bogs and spring bogs can be found in the Alps and mountain ranges + The same is likely to happen in other low mountain ranges, German regions, habitats or species groups + 2 plant species have disappeared in the last 40 years; populations of many species have decreased by a third; two have become extinct; population sizes of 37 climate-specific species making up a large part of German biodiversity have decreased by about a third since the 1970s; 46 generalist species have coped better with the changes and their numbers have increased over time; losses are greatest where heat and drought are greatest. + The study shows that the greatest disturbance factor is climate change. 	|
+| Remaining questions                  	| What about other European peatlands ? - Do we need to take radical action right now to conserve these peatlands ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             	|
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
