@@ -1,0 +1,26 @@
+---
+title: "Introduction"
+description:
+author:
+  - name: Cyril Dupuis
+    url: {}
+date: 05-15-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+Whether on land, in the sea or in the air, animal or plant, endangered species are present everywhere on Earth. Since modern times, the human impact on wildlife has taken on a whole new significance.
+
+Forest fires, pollution, CO2, manufacturing, sound waves, humans are constantly finding new ways to disturb and destroy the world around them. Sometimes, he does not even realise the damage he is causing or even misinterprets the consequences of his actions. Through several articles, we will see what the current situation is for biodiversity.
+From the Pacific to Germany, from the seabed to the snow-capped mountains. We will see the impact of the online market on reptile species, the impact of shipping on marine diversity, the impact of global warming on vegetation and finally the terrible but real situation of snow leopards. 
+We will also see what the opinion of CITES is on these online markets and more generally the opinion of major nationals on this situation.
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

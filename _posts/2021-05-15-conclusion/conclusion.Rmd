@@ -1,0 +1,26 @@
+---
+title: "Conclusion"
+description: |
+  A short description of the post.
+author:
+  - name: Cyril Dupuis
+    url: {}
+date: 05-15-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+After reading these articles, I learned much more than I expected.
+
+My opinion on the situation of the snow leopards was correct, but I was completely wrong about the situation of the maritime world.
+The human impact on the marine world is alarming. When you know how many boats exist in the world, the number of animals hit, killed or disturbed must be staggering.
+Even if the situation with corals is not as dramatic as we think, the situation with animals is chilling.
+
+Finally, concerning the German peat bogs, I didn't think that global warming was disturbing so many regions close to us.
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

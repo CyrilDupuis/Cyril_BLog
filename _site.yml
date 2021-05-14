@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Endangered species"
+title: "Endangered species - Cyril Dupuis's Blog"
 output_dir: "docs"
 navbar:
   right:

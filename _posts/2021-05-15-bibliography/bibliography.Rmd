@@ -1,0 +1,36 @@
+---
+title: "Bibliography"
+description:
+author:
+  - name: Cyril Dupuis
+    url: {}
+date: 05-15-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Article 1 : Camera Traps May Overcount Snow Leopards and Other Vulnerable Species - Scientific American  
+(Day checked : 10/19/20)
+
+Article 2 : Ships Hit Smaller Sea Animals More Often than Researchers Thought - Scientific American (Day checked : 11/20/20)
+
+Article 3 : Smooth Handfish Extinction Marks a Sad Milestone - Scientific American 
+(Day checked : 11/20/20)
+
+Article 4 : When Whales Stop Calling - Scientific American
+(Day checked : 11/20/20)
+
+Article 5 : Online Reptile Trade Is a Free-for-All That Threatens Thousands of Species - Scientific American
+(Day checked : 03/04/20)
+
+Article 6 : A half-trillion corals live in just one ocean. Does that mean they are safe? | Science | AAAS (sciencemag.org)
+(Day checked : 03/04/20)
+
+Article 7 : Climate change drives plants to extinction in the Black Forest in Germany -- ScienceDaily
+(Day checked : 03/04/20)
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
